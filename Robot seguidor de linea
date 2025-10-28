@@ -1,1 +1,5 @@
 https://youtu.be/EvhzrHujWfw?si=p012TyQsByM8m0fL
+
+Link a Github: https://github.com/amadeogarcia/JONICA25
+
+Descrpición: sistema embebido capaz de seguir una pista de carreras, frenar ante una señal de pare, y reconocer y respetar las luces de un semáforo. Para ello, deben implementarse métodos de visión computacional y técnicas de reconocimiento de objetos.
